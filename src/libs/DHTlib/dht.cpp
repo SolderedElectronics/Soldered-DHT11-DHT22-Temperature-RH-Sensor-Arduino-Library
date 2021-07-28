@@ -182,7 +182,11 @@ int8_t dht::_readSensor(uint8_t pin, uint8_t wakeupDelay, uint8_t leadingZeroBit
     // direct port read is about 3x faster
     uint8_t bit = digitalPinToBitMask(pin);
     uint8_t port = digitalPinToPort(pin);
+#ifdef __AVR__
+    volatile uint8_t *PIR = portInputRegister(port);
+#else
     volatile uint32_t *PIR = portInputRegister(port);
+#endif
 
     // REQUEST SAMPLE
     pinMode(pin, OUTPUT);
