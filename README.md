@@ -1,13 +1,17 @@
-# NAZIV PROIZVODA Arduino library
+# DHT11 and DHT22 Soldered Boards Arduino library
 
 [![Compile Sketches](http://github-actions.40ants.com/e-radionicacom/Soldered-Generic-Arduino-Library/matrix.svg?branch=dev&only=Compile%20Sketches)](https://github.com/e-radionicacom/Soldered-Generic-Arduino-Library/actions/workflows/compile_test.yml)
 [![Make docs and publish to GitHub Pages](https://github.com/e-radionicacom/Soldered-Generic-Arduino-Library/actions/workflows/make_docs.yml/badge.svg?branch=dev)](https://github.com/e-radionicacom/Soldered-Generic-Arduino-Library/actions/workflows/make_docs.yml)
 
-| ![Product name](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg) |
+| ![DHT11 Soldered Board](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg)  |
 | :---------------------------------------------------------------------------------------------: |
-| [NAZIV PROIZVODA](https://www.solde.red/SKU)                                                            |
+| [DHT11 Soldered Board](https://www.solde.red/101200)                                            |
 
-OPIS PROIZVODA + LINK NA [easyC ecosystem](https://www.soldered.com/easyC). 
+| ![DHT22 Soldered Board](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg)  |
+| :---------------------------------------------------------------------------------------------: |
+| [DHT22 Soldered Board](https://www.solde.red/101262)                                            |
+
+DHT11 and DHT22 Soldered Boards offer cheap temperature and humidity sensing.
 
 ### Repository Contents
 - **/src** - source files for the library (.h & .cpp)
@@ -15,13 +19,13 @@ OPIS PROIZVODA + LINK NA [easyC ecosystem](https://www.soldered.com/easyC).
 - ***other*** - *keywords* file highlights function words in your IDE, *library.properties* enables implementation with Arduino Library Manager.
 
 ### Hardware design
-You can find hardware design for this board in NAZIV PROIZVODA hardware repository
+You can find hardware design for this board in DHT11 and DHT22 Soldered Boards hardware repository
 
 ### Documentation
 
 Access Arduino library documentation [here](https://e-radionicacom.github.io/Soldered-Generic-Arduino-Library/).
 
-- Tutorial for using the NAZIV PROIZVODA board
+- Tutorial for using the DHT11 and DHT22 Soldered Boards
 - Installing an Arduino library
 
 ### About Soldered
@@ -37,7 +41,7 @@ At Soldered, we design and manufacture a wide selection of electronic products t
 
 ### Original source
 ​
-This library is possible thanks to original [arduino-mcp23017](https://github.com/blemasle/arduino-mcp23017) library. Thank you, blemasle. 
+This library is possible thanks to original [DHTlib](https://github.com/RobTillaart/DHTlib) library. Thank you, RobTillaart. 
 
 
 ### Open-source license
