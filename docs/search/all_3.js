@@ -1,7 +1,12 @@
 var searchData=
 [
-  ['easyc_4',['EasyC',['../class_easy_c.html',1,'EasyC'],['../class_easy_c.html#a2ea672a225a32eab52c2b20733fd26bd',1,'EasyC::EasyC()']]],
-  ['easyc_2ecpp_5',['easyC.cpp',['../easy_c_8cpp.html',1,'']]],
-  ['easyc_2eh_6',['easyC.h',['../easy_c_8h.html',1,'']]],
-  ['err_7',['err',['../class_easy_c.html#a8b880d5daf116adde0cc436f1e4c0853',1,'EasyC']]]
+  ['defaultaddress_6',['defaultAddress',['../class_easy_c.html#a9052ae674b3553bbb19283278299f395',1,'EasyC']]],
+  ['dht_7',['dht',['../classdht.html',1,'dht'],['../classdht.html#afa0d349662e745a3250dee1bb4481d1c',1,'dht::dht()']]],
+  ['dht_2ecpp_8',['dht.cpp',['../dht_8cpp.html',1,'']]],
+  ['dht_2eh_9',['dht.h',['../dht_8h.html',1,'']]],
+  ['dht11_10',['DHT11',['../class_d_h_t11.html',1,'']]],
+  ['dht11_20and_20dht22_20soldered_20boards_20arduino_20library_11',['DHT11 and DHT22 Soldered Boards Arduino library',['../index.html',1,'']]],
+  ['dht22_12',['DHT22',['../class_d_h_t22.html',1,'']]],
+  ['dhtxx_2dsoldered_2ecpp_13',['DHTXX-SOLDERED.cpp',['../_d_h_t_x_x-_s_o_l_d_e_r_e_d_8cpp.html',1,'']]],
+  ['dhtxx_2dsoldered_2eh_14',['DHTXX-SOLDERED.h',['../_d_h_t_x_x-_s_o_l_d_e_r_e_d_8h.html',1,'']]]
 ];

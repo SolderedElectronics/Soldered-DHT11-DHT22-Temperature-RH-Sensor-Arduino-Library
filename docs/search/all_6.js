@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['native_11',['native',['../class_easy_c.html#abb766b60f26778dbc64e8792fd754729',1,'EasyC']]],
-  ['naziv_20proizvoda_20arduino_20library_12',['NAZIV PROIZVODA Arduino library',['../index.html',1,'']]]
+  ['humidity_20',['humidity',['../classdht.html#a2c923ab41ba2c4d211e2cdeccb4c852d',1,'dht']]]
 ];

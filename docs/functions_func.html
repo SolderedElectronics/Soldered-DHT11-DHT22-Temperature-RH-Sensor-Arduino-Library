@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.9.1"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>16x2 easyC LCD Library: Class Members - Functions</title>
+<title>DHT11 and DHT22 Arduino Library: Class Members - Functions</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -28,10 +28,10 @@
  <tr style="height: 56px;">
   <td id="projectlogo"><img alt="Logo" src="logo.png"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
-   <div id="projectname">16x2 easyC LCD Library
+   <div id="projectname">DHT11 and DHT22 Arduino Library
    &#160;<span id="projectnumber">1.0.0</span>
    </div>
-   <div id="projectbrief">This is a library for the 16x2 easyC LCD Module</div>
+   <div id="projectbrief">This is a library for the DHT11 and DHT22 Soldered Boards</div>
   </td>
  </tr>
  </tbody>
@@ -87,15 +87,59 @@ $(document).ready(function(){initNavTree('functions_func.html',''); initResizabl
 
 <div class="contents">
 &#160;<ul>
+<li>_readSensor()
+: <a class="el" href="classdht.html#af05871643f68009413a06692bed16c47">dht</a>
+</li>
 <li>begin()
 : <a class="el" href="class_easy_c.html#a1b5a82b8a59daea79de76e496457e176">EasyC</a>
+</li>
+<li>dht()
+: <a class="el" href="classdht.html#afa0d349662e745a3250dee1bb4481d1c">dht</a>
 </li>
 <li>EasyC()
 : <a class="el" href="class_easy_c.html#a2ea672a225a32eab52c2b20733fd26bd">EasyC</a>
 </li>
+<li>getDisableIRQ()
+: <a class="el" href="classdht.html#ab77c452047ee94fcd598ece8dc39135b">dht</a>
+</li>
 <li>initializeNative()
 : <a class="el" href="class_easy_c.html#a48c8aa55d48ef0cc11047cab0735c998">EasyC</a>
-, <a class="el" href="class_sensor.html#adb537c76173019fddf84b2d89e6c6559">Sensor</a>
+</li>
+<li>read()
+: <a class="el" href="classdht.html#a71cd6a9699aacbb5ec74cab3940648d2">dht</a>
+</li>
+<li>read11()
+: <a class="el" href="classdht.html#a896a06f6dcf5873c7209db2072f3a0ea">dht</a>
+</li>
+<li>read12()
+: <a class="el" href="classdht.html#a23801abcbe647b4f7c06522f1166f7c7">dht</a>
+</li>
+<li>read21()
+: <a class="el" href="classdht.html#a3e641d254dfd02ccc3371ed1882749b9">dht</a>
+</li>
+<li>read22()
+: <a class="el" href="classdht.html#a3d8e3274a408da4faf97dc51f2eedd37">dht</a>
+</li>
+<li>read2301()
+: <a class="el" href="classdht.html#abf86b630fb00eff302f15d59dd7f3248">dht</a>
+</li>
+<li>read2302()
+: <a class="el" href="classdht.html#ac9e006f4a3581c7064bdf49799be2a26">dht</a>
+</li>
+<li>read2303()
+: <a class="el" href="classdht.html#a2f2bb6d30519ffac0e44fe39ff17e2ae">dht</a>
+</li>
+<li>read2320()
+: <a class="el" href="classdht.html#afc67ee5838d7170f8dfb349af8806c26">dht</a>
+</li>
+<li>read2322()
+: <a class="el" href="classdht.html#ae96571c19aa3b3cadc0535710b581e4b">dht</a>
+</li>
+<li>read33()
+: <a class="el" href="classdht.html#a42a56c5aedafb905b202da15ff5613f0">dht</a>
+</li>
+<li>read44()
+: <a class="el" href="classdht.html#ae9fd6de170d0eb9f3722ab1a67339332">dht</a>
 </li>
 <li>readData()
 : <a class="el" href="class_easy_c.html#a9a3d39be50b348768bc4b5dea3dae01a">EasyC</a>
@@ -109,8 +153,8 @@ $(document).ready(function(){initNavTree('functions_func.html',''); initResizabl
 <li>sendData()
 : <a class="el" href="class_easy_c.html#afe8aa014ae53cad3b0f3c42f59277195">EasyC</a>
 </li>
-<li>Sensor()
-: <a class="el" href="class_sensor.html#a2b8ea6b15267f6fa0e263f57a09f6b62">Sensor</a>
+<li>setDisableIRQ()
+: <a class="el" href="classdht.html#adf02f9369042a6f765441578b0fff026">dht</a>
 </li>
 </ul>
 </div><!-- contents -->
@@ -120,7 +164,7 @@ $(document).ready(function(){initNavTree('functions_func.html',''); initResizabl
     <!-- id is needed for treeview function! -->
     <ul>
         <li class="footer">
-            Generated on Wed Jul 28 2021 13:11:57 for 16x2 easyC LCD Library by <a href="http://www.doxygen.org/index.html">
+            Generated on Wed Jul 28 2021 14:16:06 for DHT11 and DHT22 Arduino Library by <a href="http://www.doxygen.org/index.html">
                 <img class="footer" src="doxygen.png" alt="doxygen"
                     onerror="this.onerror=null;this.src='doxygen.svg';" /></a> 1.9.1.
             Dark theme by <a href="http://majerle.eu" target="_new">Tilen Majerle</a>. All rights reserved.

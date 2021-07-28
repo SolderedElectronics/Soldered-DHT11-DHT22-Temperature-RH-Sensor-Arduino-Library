@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['naziv_20proizvoda_20arduino_20library_41',['NAZIV PROIZVODA Arduino library',['../index.html',1,'']]]
+  ['dht11_20and_20dht22_20soldered_20boards_20arduino_20library_87',['DHT11 and DHT22 Soldered Boards Arduino library',['../index.html',1,'']]]
 ];
