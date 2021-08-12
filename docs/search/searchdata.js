@@ -1,10 +1,10 @@
 var indexSectionsWithContent =
 {
-  0: "_abdeghinrst",
-  1: "de",
-  2: "ders",
-  3: "_bdegirs",
-  4: "_abdehnt",
+  0: "_bdghrst",
+  1: "d",
+  2: "drs",
+  3: "_dgrs",
+  4: "_bht",
   5: "d"
 };
 

@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['humidity_20',['humidity',['../classdht.html#a2c923ab41ba2c4d211e2cdeccb4c852d',1,'dht']]]
+  ['readme_2emd_26',['README.md',['../src_2libs_2_d_h_tlib_2_r_e_a_d_m_e_8md.html',1,'']]],
+  ['setdisableirq_27',['setDisableIRQ',['../classdht.html#adf02f9369042a6f765441578b0fff026',1,'dht']]]
 ];

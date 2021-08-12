@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['initializenative_21',['initializeNative',['../class_easy_c.html#a48c8aa55d48ef0cc11047cab0735c998',1,'EasyC']]]
+  ['temperature_28',['temperature',['../classdht.html#a0bbfd26f5e1c303b5653c0f7fef00e07',1,'dht']]]
 ];

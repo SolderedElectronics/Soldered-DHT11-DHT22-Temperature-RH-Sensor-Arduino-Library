@@ -1,6 +1,11 @@
 var searchData=
 [
-  ['begin_3',['begin',['../class_easy_c.html#a1b5a82b8a59daea79de76e496457e176',1,'EasyC::begin()'],['../class_easy_c.html#a9e71467da6f38cbe47b10e96694a4f91',1,'EasyC::begin(uint8_t _address)']]],
-  ['begindone_4',['beginDone',['../class_easy_c.html#a2f55de657a84e73edda23dae91d30436',1,'EasyC']]],
-  ['bits_5',['bits',['../classdht.html#a88064864f35a84aa6f264b7a05e47bee',1,'dht']]]
+  ['dht_3',['dht',['../classdht.html',1,'dht'],['../classdht.html#afa0d349662e745a3250dee1bb4481d1c',1,'dht::dht()']]],
+  ['dht_2ecpp_4',['dht.cpp',['../dht_8cpp.html',1,'']]],
+  ['dht_2eh_5',['dht.h',['../dht_8h.html',1,'']]],
+  ['dht11_6',['DHT11',['../class_d_h_t11.html',1,'']]],
+  ['dht11_20and_20dht22_20soldered_20boards_20arduino_20library_7',['DHT11 and DHT22 Soldered Boards Arduino library',['../index.html',1,'']]],
+  ['dht22_8',['DHT22',['../class_d_h_t22.html',1,'']]],
+  ['dhtxx_2dsoldered_2ecpp_9',['DHTXX-SOLDERED.cpp',['../_d_h_t_x_x-_s_o_l_d_e_r_e_d_8cpp.html',1,'']]],
+  ['dhtxx_2dsoldered_2eh_10',['DHTXX-SOLDERED.h',['../_d_h_t_x_x-_s_o_l_d_e_r_e_d_8h.html',1,'']]]
 ];

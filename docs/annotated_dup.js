@@ -8,6 +8,5 @@ var annotated_dup =
     [ "Open-source license", "index.html#autotoc_md6", null ],
     [ "dht", "classdht.html", "classdht" ],
     [ "DHT11", "class_d_h_t11.html", null ],
-    [ "DHT22", "class_d_h_t22.html", null ],
-    [ "EasyC", "class_easy_c.html", "class_easy_c" ]
+    [ "DHT22", "class_d_h_t22.html", null ]
 ];
